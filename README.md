@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-# About-me
-🚀 Repositorio-CV: habilidades, proyectos y experiencia como programador full-stack junior.
-
 # 👋 Hola, soy Pelayo González
 💻 Desarrollador junior especializado en **Angular Ionic**, **Java Spring Boot** y **.NET**  
 📱 Experiencia en **React tailwind**, **Visual Basic** 
@@ -25,9 +22,12 @@
 ---
 
 ## 📊 Estadísticas de GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuUsuario&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=tuUsuario&theme=tokyonight)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=pelayoglezrodr&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pelayoglezrodr&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pelayoglezrodr&theme=tokyonight)
 
 --
 
