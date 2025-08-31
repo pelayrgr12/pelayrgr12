@@ -23,11 +23,11 @@
 
 ## 📊 Estadísticas de GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=pelayoglezrodr&show_icons=true&theme=tokyonight)  
+![Stats](https://github-readme-stats.vercel.app/api?username=pelayrgr12&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pelayoglezrodr&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pelayrgr12&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pelayoglezrodr&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=pelayrgr12&theme=tokyonight)
 
 --
 
