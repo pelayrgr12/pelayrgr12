@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**pelayrgr12/pelayrgr12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About-me
+🚀 Repositorio-CV: habilidades, proyectos y experiencia como programador full-stack junior.
 
-Here are some ideas to get you started:
+# 👋 Hola, soy Pelayo González
+💻 Desarrollador junior especializado en **Angular Ionic**, **Java Spring Boot** y **.NET**  
+📱 Experiencia en **React tailwind**, **Visual Basic** 
+🎯 Interés en proyectos de **backend, apps móviles e integración de APIs**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías
+- **Lenguajes:** Java, C#, TypeScript, SQL  
+- **Frameworks:** Spring Boot, ASP.NET, Ionic, React  
+- **Herramientas:** Git, GitHub Actions, Docker, Swagger  
+- **Bases de datos:** SQL Server, MySQL  
+
+---
+
+## 📌 Proyectos destacados
+- [📍 Guía de Pesca Interactiva Asturiana](https://github.com/tuUsuario/guia-pesca)  
+  App móvil con **mapas y registro de capturas**, backend en Spring Boot + JWT.  
+
+---
+
+## 📊 Estadísticas de GitHub
+![Tus stats](https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contacto
+[![Email](https://img.shields.io/badge/Email-pelayogonzalez.r%40gmail.com-red?style=flat-square&logo=gmail)](mailto:pelayogonzalez.r@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pelayo%20González-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pelayoglezrodr/)
