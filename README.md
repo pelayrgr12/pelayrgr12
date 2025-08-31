@@ -25,9 +25,11 @@
 ---
 
 ## 📊 Estadísticas de GitHub
-![Tus stats](https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuUsuario&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=tuUsuario&theme=tokyonight)
 
----
+--
 
 ## 📫 Contacto
 [![Email](https://img.shields.io/badge/Email-pelayogonzalez.r%40gmail.com-red?style=flat-square&logo=gmail)](mailto:pelayogonzalez.r@gmail.com)  
