@@ -1,14 +1,14 @@
 ## Hi there 👋
 
 # 👋 Hola, soy Pelayo González
-💻 Desarrollador junior especializado en **Angular Ionic**, **Java Spring Boot** y **.NET**  
-📱 Experiencia en **React tailwind**, **Visual Basic** 
+💻 Desarrollador junior especializado en **Angular Ionic**, **Java Spring Boot** 
+📱 Experiencia en **React tailwind**, **Visual Basic** y **.NET**  
 🎯 Interés en proyectos de **backend, apps móviles e integración de APIs**  
 
 ---
 
 ## 🚀 Tecnologías
-- **Lenguajes:** Java, C#, TypeScript, SQL  
+- **Lenguajes:** Angular, Java, C#, TypeScript, SQL  
 - **Frameworks:** Spring Boot, ASP.NET, Ionic, React  
 - **Herramientas:** Git, GitHub Actions, Docker, Swagger  
 - **Bases de datos:** SQL Server, MySQL  
