@@ -25,7 +25,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=pelayrgr12&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pelayrgr12&hide=html,css,scss&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pelayrgr12&hide=html,css,scss&layout=compact&theme=tokyonight&langs_count=10)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pelayrgr12&theme=tokyonight)
 
