@@ -16,7 +16,7 @@
 ---
 
 ## 📌 Proyectos destacados
-- [📍 Guía de Pesca Interactiva Asturiana](https://github.com/tuUsuario/guia-pesca)  
+- [📍 Guía de Pesca Interactiva Asturiana](https://github.com/pelayrgr12/Guia-de-pesca-Interactiva-Asturiana)  
   App móvil con **mapas y registro de capturas**, backend en Spring Boot + JWT.  
 
 ---
